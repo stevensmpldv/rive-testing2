@@ -9,7 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "sb": "start-storybook -p 6006",
     "build-storybook": "build-storybook -o docs-build",
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "chromatic": "npx chromatic --project-token=cdfb554e70d5"
   },
   "author": "",
   "license": "MIT",

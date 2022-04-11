@@ -33,7 +33,7 @@ var lengthOfTextBox = 1;
  */
 const LoginFormComponent = (riveProps: UseRiveParameters = {}) => {
   const { rive: riveInstance, RiveComponent }: RiveState = useRive({
-    src: 'panda_teddy_09.riv',
+    src: 'panda_teddy_11.riv',
     stateMachines: STATE_MACHINE_NAME,
     autoplay: true,
     layout: new Layout({
@@ -106,7 +106,7 @@ const LoginFormComponent = (riveProps: UseRiveParameters = {}) => {
       if(w>txtwidth){
         if(wrapCounter === 1) {
           lengthCheck = e.target.value;
-          
+
           lengthOfTextBox = lengthCheck.length; //actual length of box is closer to 30 than 32
         }
         wrapCounter++;
@@ -201,4 +201,3 @@ const LoginFormComponent = (riveProps: UseRiveParameters = {}) => {
 };
 
 export default LoginFormComponent;
-      

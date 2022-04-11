@@ -1,17 +1,17 @@
 info @storybook/react v6.4.19
-info 
-info => Cleaning outputDir: C:\\Users\\Franc\\AppData\\Local\\Temp\\chromatic--38620-Mp0Mz0aNrBno
+info
+info => Cleaning outputDir: /var/folders/cp/jym8s31j03x9kttzk4pyrg0w0000gn/T/chromatic--42675-SE87kZBfiNMt
 info => Loading presets
-info => Copying static files: C:\Users\Franc\Documents\GitHub\rive-testing2\public at C:\Users\Franc\AppData\Local\Temp\chromatic--38620-Mp0Mz0aNrBno\
+info => Copying static files: /Users/stevenbaxter/Documents/GitHub/rive-testing/public at /var/folders/cp/jym8s31j03x9kttzk4pyrg0w0000gn/T/chromatic--42675-SE87kZBfiNMt/
 info => Compiling manager..
 info => Compiling preview..
 info => Using implicit CSS loaders
 info => Using default Webpack4 setup
 <s> [webpack.Progress] 0% compiling
-<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/0 modules 0 active
 <s> [webpack.Progress] 10% building 0/1 modules 1 active multi C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\core-client\dist\esm\globals\polyfills.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\core-client\dist\esm\globals\globals.js C:\Users\Franc\Documents\GitHub\rive-testing2\storybook-init-framework-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-docs\dist\esm\frameworks\common\config.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-docs\dist\esm\frameworks\react\config.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\react\dist\esm\client\preview\config-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-links\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-actions\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-actions\dist\esm\preset\addArgs.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-backgrounds\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-backgrounds\dist\esm\preset\addParameter.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-measure\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-outline\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-interactions\dist\esm\preset\argsEnhancers.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\.storybook\preview.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\generated-stories-entry.js
-<s> [webpack.Progress] 10% building 1/1 modules 0 active 
-(node:24524) DeprecationWarning: Default PostCSS plugins are deprecated. When switching to '@storybook/addon-postcss',
+<s> [webpack.Progress] 10% building 1/1 modules 0 active
+(node:42691) DeprecationWarning: Default PostCSS plugins are deprecated. When switching to '@storybook/addon-postcss',
 you will need to add your own plugins, such as 'postcss-flexbugs-fixes' and 'autoprefixer'.
 
 See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-default-postcss-plugins for details.
@@ -2435,7 +2435,7 @@ See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-d
 <s> [webpack.Progress] 69% building 1208/1211 modules 3 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\preview-web\dist\esm\parseArgsParam.js
 <s> [webpack.Progress] 69% building 1209/1211 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\preview-web\dist\esm\parseArgsParam.js
 <s> [webpack.Progress] 69% building 1210/1211 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\preview-web\dist\esm\parseArgsParam.js
-<s> [webpack.Progress] 70% building 1211/1211 modules 0 active 
+<s> [webpack.Progress] 70% building 1211/1211 modules 0 active
 <s> [webpack.Progress] 69% building 1211/1212 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\react-popper\lib\esm\utils.js
 <s> [webpack.Progress] 69% building 1211/1213 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\regexp.prototype.flags\index.js
 <s> [webpack.Progress] 69% building 1211/1214 modules 3 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\style-loader\dist\cjs.js!C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\css-loader\dist\cjs.js??ref--11-1!C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\builder-webpack4\node_modules\postcss-loader\dist\cjs.js??ref--11-2!C:\Users\Franc\Documents\GitHub\rive-testing2\lib\components\rating-feedback\RatingButton.css
@@ -2537,13 +2537,13 @@ See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-d
 <s> [webpack.Progress] 69% building 1259/1262 modules 3 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\property-information\lib\util\schema.js
 <s> [webpack.Progress] 69% building 1260/1262 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\property-information\lib\util\schema.js
 <s> [webpack.Progress] 69% building 1261/1262 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\property-information\lib\util\schema.js
-<s> [webpack.Progress] 70% building 1262/1262 modules 0 active 
+<s> [webpack.Progress] 70% building 1262/1262 modules 0 active
 <s> [webpack.Progress] 69% building 1262/1263 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\hast-util-parse-selector\index.js
 <s> [webpack.Progress] 69% building 1262/1264 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\space-separated-tokens\index.js
 <s> [webpack.Progress] 69% building 1262/1265 modules 3 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\comma-separated-tokens\index.js
 <s> [webpack.Progress] 69% building 1263/1265 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\comma-separated-tokens\index.js
 <s> [webpack.Progress] 69% building 1264/1265 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\comma-separated-tokens\index.js
-<s> [webpack.Progress] 70% building 1265/1265 modules 0 active 
+<s> [webpack.Progress] 70% building 1265/1265 modules 0 active
 <s> [webpack.Progress] 69% building 1265/1266 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\es-array-method-boxes-properly\index.js
 <s> [webpack.Progress] 69% building 1265/1267 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\property-information\lib\util\case-sensitive-transform.js
 <s> [webpack.Progress] 69% building 1266/1267 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\property-information\lib\util\case-sensitive-transform.js
@@ -2551,9 +2551,9 @@ See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-d
 <s> [webpack.Progress] 69% building 1267/1268 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\is-alphabetical\index.js
 <s> [webpack.Progress] 69% building 1267/1269 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\entities\lib\index.js
 <s> [webpack.Progress] 69% building 1268/1269 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\entities\lib\index.js
-<s> [webpack.Progress] 70% building 1269/1269 modules 0 active 
+<s> [webpack.Progress] 70% building 1269/1269 modules 0 active
 <s> [webpack.Progress] 69% building 1269/1270 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\xtend\immutable.js
-<s> [webpack.Progress] 70% building 1270/1270 modules 0 active 
+<s> [webpack.Progress] 70% building 1270/1270 modules 0 active
 <s> [webpack.Progress] 69% building 1270/1271 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\is-arguments\index.js
 <s> [webpack.Progress] 69% building 1270/1272 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\is-set\index.js
 <s> [webpack.Progress] 69% building 1270/1273 modules 3 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\is-map\index.js
@@ -2565,7 +2565,7 @@ See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-d
 <s> [webpack.Progress] 69% building 1273/1276 modules 3 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\es-get-iterator\node_modules\isarray\index.js
 <s> [webpack.Progress] 69% building 1274/1276 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\es-get-iterator\node_modules\isarray\index.js
 <s> [webpack.Progress] 69% building 1275/1276 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\es-get-iterator\node_modules\isarray\index.js
-<s> [webpack.Progress] 70% building 1276/1276 modules 0 active 
+<s> [webpack.Progress] 70% building 1276/1276 modules 0 active
 <s> [webpack.Progress] 69% building 1276/1277 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\entities\lib\maps\entities.json
 <s> [webpack.Progress] 69% building 1276/1278 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\entities\lib\maps\legacy.json
 <s> [webpack.Progress] 69% building 1276/1279 modules 3 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\entities\lib\maps\xml.json
@@ -2573,10 +2573,10 @@ See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-d
 <s> [webpack.Progress] 69% building 1277/1280 modules 3 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\entities\lib\decode_codepoint.js
 <s> [webpack.Progress] 69% building 1278/1280 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\entities\lib\decode_codepoint.js
 <s> [webpack.Progress] 69% building 1279/1280 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\entities\lib\decode_codepoint.js
-<s> [webpack.Progress] 70% building 1280/1280 modules 0 active 
+<s> [webpack.Progress] 70% building 1280/1280 modules 0 active
 <s> [webpack.Progress] 69% building 1280/1281 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\entities\lib\maps\decode.json
-<s> [webpack.Progress] 70% building 1281/1281 modules 0 active 
-<s> [webpack.Progress] 70% building 1281/1281 modules 0 active 
+<s> [webpack.Progress] 70% building 1281/1281 modules 0 active
+<s> [webpack.Progress] 70% building 1281/1281 modules 0 active
 <s> [webpack.Progress] 70% finish module graph
 <s> [webpack.Progress] 70% finish module graph FlagDependencyExportsPlugin
 <s> [webpack.Progress] 70% finish module graph WasmFinalizeExportsPlugin
@@ -2648,6 +2648,7 @@ See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-d
 <s> [webpack.Progress] 92% additional asset processing PersistentChildCompilerSingletonPlugin
 <s> [webpack.Progress] 92% chunk asset optimization
 <s> [webpack.Progress] 92% chunk asset optimization TerserPlugin
+info => Manager built (14 s)
 <s> [webpack.Progress] 93% after chunk asset optimization
 <s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
 <s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
@@ -2655,10 +2656,10 @@ See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-d
 <s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin 1.7ee98168.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin 2.b59bb7f4.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin 3.8bb2173c.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin main.3b10c238.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin runtime~main.44b85295.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin vendors~main.73d5a9ee.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin 7.56868dbc.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin main.0aba4e64.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin runtime~main.34636e19.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin vendors~main.03f7fe0e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin 7.d7d1fc2e.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin 8.91de97de.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin 9.40ec65d6.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin resolve sources
@@ -2674,12 +2675,12 @@ See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-d
 <s> [webpack.Progress] 95% emitting HtmlWebpackPlugin
 <s> [webpack.Progress] 98% after emitting
 <s> [webpack.Progress] 98% after emitting SizeLimitsPlugin
-<s> [webpack.Progress] 100% 
+<s> [webpack.Progress] 100%
 
 info => Preview built (16 s)
 WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
 WARN This can impact web performance.
-WARN Assets: 
+WARN Assets:
 WARN   0.4a8806f1.iframe.bundle.js (597 KiB)
 WARN   vendors~main.73d5a9ee.iframe.bundle.js (1.74 MiB)
 WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
@@ -2688,6 +2689,6 @@ WARN   main (1.79 MiB)
 WARN       runtime~main.44b85295.iframe.bundle.js
 WARN       vendors~main.73d5a9ee.iframe.bundle.js
 WARN       main.3b10c238.iframe.bundle.js
-WARN 
+WARN
 info => Manager built (16 s)
 info => Output directory: C:\\Users\\Franc\\AppData\\Local\\Temp\\chromatic--38620-Mp0Mz0aNrBno

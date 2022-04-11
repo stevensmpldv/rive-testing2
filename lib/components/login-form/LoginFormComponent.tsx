@@ -33,7 +33,7 @@ var lengthOfTextBox = 1;
  */
 const LoginFormComponent = (riveProps: UseRiveParameters = {}) => {
   const { rive: riveInstance, RiveComponent }: RiveState = useRive({
-    src: 'panda_teddy_7.riv',
+    src: 'panda_teddy_09.riv',
     stateMachines: STATE_MACHINE_NAME,
     autoplay: true,
     layout: new Layout({

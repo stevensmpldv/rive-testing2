@@ -37,7 +37,7 @@ const AudioPandaComponent = (riveProps: UseRiveParameters = {}) => {
     stateMachines: STATE_MACHINE_NAME,
     autoplay: true,
     layout: new Layout({
-      fit: Fit.Cover,
+      fit: Fit.Contain,
       alignment: Alignment.Center,
     }),
     ...riveProps,
@@ -162,36 +162,7 @@ const AudioPandaComponent = (riveProps: UseRiveParameters = {}) => {
         </div>
         <div className="form-container">
           <form onSubmit={onSubmit}>
-            <label>
-              <textarea
-                id="textbox"
-                type="text"
-                rows={5}
-                className="form-username"
-                name="username"
-                placeholder="Placeholder Text"
-                onFocus={onUsernameFocus}
-                value={userValue}
-                onChange={onUsernameChange}
-                onBlur={() => (isCheckingInput!.value = false)}
-                ref={inputRef}
-              />
-            </label>
-            <label>
-              <input
-                id="checker"
-                type="text"
-                className="form-pass"
-                name="password"
-                placeholder="testing space"
-                value={passValue}
-                onFocus={() => (isHandsUpInput!.value = true)}
-                onBlur={() => (isHandsUpInput!.value = false)}
-                onChange={(e: ChangeEvent<HTMLInputElement>) =>
-                  setPassValue(e.target.value)
-                }
-              />
-            </label>
+
             <button className="login-btn">{loginButtonText}</button>
           </form>
         </div>

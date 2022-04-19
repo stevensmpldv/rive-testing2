@@ -91,13 +91,13 @@
 }
 
 .rive-container {
-  min-height: 300px;
-  min-width: 400px;
+  min-height: 800px;
+  min-width: 800px;
   width: 100%;
   margin: 0 auto;
 }
 
 .login-form-wrapper {
   width: 100%;
-  max-width: 400px;
+  max-width: 800px;
 }

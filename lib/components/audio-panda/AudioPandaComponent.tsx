@@ -87,6 +87,7 @@ const AudioPandaComponent = (riveProps: UseRiveParameters = {}) => {
         (inputRef.current as HTMLInputElement).offsetWidth / 100
       );
     }
+    console.log("hi");
   }, [inputRef]);
 
   // As the user types in the username box, update the numLook value to let Teddy know

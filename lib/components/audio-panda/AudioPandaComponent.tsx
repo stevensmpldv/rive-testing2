@@ -20,7 +20,8 @@ import $ from "jquery"
 
 const STATE_MACHINE_NAME = 'Login Machine';
 const LOGIN_PASSWORD = 'teddy';
-const LOGIN_TEXT = 'Login';
+const ACTION_ONE = 'Nod';
+const ACTION_TWO = 'Shake';
 var wrapCounter = 1;
 var wrapOffset = 0;
 var lengthCheck;
@@ -45,7 +46,8 @@ const AudioPandaComponent = (riveProps: UseRiveParameters = {}) => {
   const [userValue, setUserValue] = useState('');
   const [passValue, setPassValue] = useState('');
   const [inputLookMultiplier, setInputLookMultiplier] = useState(0);
-  const [loginButtonText, setLoginButtonText] = useState(LOGIN_TEXT);
+  const [actionOneText, setactionOneText] = useState(ACTION_ONE);
+  const [actionTwoText, setactionTwoText] = useState(ACTION_TWO);
   const inputRef = useRef(null);
 
   const isCheckingInput: StateMachineInput | null = useStateMachineInput(
@@ -58,21 +60,23 @@ const AudioPandaComponent = (riveProps: UseRiveParameters = {}) => {
     STATE_MACHINE_NAME,
     'numLook'
   );
-  const trigSuccessInput: StateMachineInput | null = useStateMachineInput(
+  const nodding: StateMachineInput | null = useStateMachineInput(
     riveInstance,
     STATE_MACHINE_NAME,
     'trigSuccess'
   );
-  const trigFailInput: StateMachineInput | null = useStateMachineInput(
+  const shaking: StateMachineInput | null = useStateMachineInput(
     riveInstance,
     STATE_MACHINE_NAME,
     'trigFail'
   );
-  const isHandsUpInput: StateMachineInput | null = useStateMachineInput(
+  const blinking: StateMachineInput | null = useStateMachineInput(
     riveInstance,
     STATE_MACHINE_NAME,
-    'trigFail'
+    'trigBlink'
   );
+  
+  
 
   // Divide the input width by the max value the state machine looks for in numLook.
   // This gets us a multiplier we can apply for each character typed in the input
@@ -131,15 +135,21 @@ const AudioPandaComponent = (riveProps: UseRiveParameters = {}) => {
   };
 
   // When submitting, simulate password validation checking and trigger the appropriate input from the
+
   // state machine
-  const onSubmit = (e: SyntheticEvent) => {
-    setLoginButtonText('Checking...');
-    setTimeout(() => {
-      setLoginButtonText(LOGIN_TEXT);
-    }, 1500);
-    e.preventDefault();
+  const actionOne = (e: SyntheticEvent) => {
+    setactionOneText('Nodding...');
+    rive.play("success");
     return false;
   };
+  
+  const actionTwo = (e: SyntheticEvent) => {
+    setactionTwoText('Shaking...');
+    return false;
+  };
+  
+
+  
 
   function textWidth(txt, font,padding) {
     var $span = $('<span></span>');
@@ -161,9 +171,15 @@ const AudioPandaComponent = (riveProps: UseRiveParameters = {}) => {
           <RiveComponent className="rive-container" />
         </div>
         <div className="form-container">
-          <form onSubmit={onSubmit}>
+          <form onSubmit={actionOne}>
 
-            <button className="login-btn">{loginButtonText}</button>
+            <button className="login-btn">{actionOneText}</button>
+          </form>
+        </div>
+        <div className="form-container">
+          <form onSubmit={actionTwo}>
+    
+            <button className="login-btn">{actionTwoText}</button>
           </form>
         </div>
       </div>

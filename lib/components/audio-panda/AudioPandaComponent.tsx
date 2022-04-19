@@ -171,18 +171,11 @@ const AudioPandaComponent = (riveProps: UseRiveParameters = {}) => {
           <RiveComponent className="rive-container" />
         </div>
         <div className="form-container">
-          <form onSubmit={actionOne}>
-
-            <button className="login-btn">{actionOneText}</button>
-          </form>
+            <button className="login-btn" onClick={actionOne}>{actionOneText}</button>
+            <button className="login-btn" onClick={actionTwo}>{actionTwoText}</button>
         </div>
-        <div className="form-container">
-          <form onSubmit={actionTwo}>
-    
-            <button className="login-btn">{actionTwoText}</button>
-          </form>
-        </div>
-      </div>
+            
+       </div>
     </div>
   );
 };

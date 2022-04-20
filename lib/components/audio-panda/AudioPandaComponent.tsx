@@ -2,15 +2,28 @@ import { useState, useEffect } from "react";
 import { useRive, Layout, Fit } from "rive-react";
 
 export default function App() {
-  const [truckButtonText, setTruckButtonText] = useState("Start Truck");
-  const [wiperButtonText, setWiperButtonText] = useState("Start Wipers");
+  const [idleButtonText, setidleButtonText] = useState("Start idle");
+  const [successButtonText, setsuccessButtonText] = useState("Start success");
+    const [wiperButtonText, setWiperButtonText] = useState("Start blink");
 
   // animation will show the first frame but not start playing
   const { rive, RiveComponent } = useRive({
-    src: "audio_panda_teddy_02.riv",
+    src: "audio_panda_teddy_03.riv",
     artboard: "Panda Teddy",
     layout: new Layout({ fit: Fit.Contain }),
   });
+// button style goes here
+const Button = styled.button`
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+`;
+
+
 
   useEffect(() => {
     if (rive) {
@@ -19,9 +32,9 @@ export default function App() {
         const names = event.data;
         names.forEach((name) => {
           if (name === "idle") {
-            setTruckButtonText("Stop Truck");
+            setidleButtonText("Stop idle");
           } else if (name === "success") {
-            setWiperButtonText("Stop Wipers");
+            setsuccessButtonText("Stop success");
           }
         });
       });
@@ -31,16 +44,16 @@ export default function App() {
         const names = event.data;
         names.forEach((name) => {
           if (name === "idle") {
-            setTruckButtonText("Start Truck");
+            setidleButtonText("Start idle");
           } else if (name === "success") {
-            setWiperButtonText("Start Wipers");
+            setsuccessButtonText("Start success");
           }
         });
       });
     }
   }, [rive]);
 
-  function onStartTruckClick() {
+  function onStartidleClick() {
     if (rive) {
       if (rive.playingAnimationNames.includes("idle")) {
         rive.pause("idle");
@@ -50,12 +63,21 @@ export default function App() {
     }
   }
 
-  function onStartWiperClick() {
+  function onStartsuccessClick() {
     if (rive) {
       if (rive.playingAnimationNames.includes("success")) {
         rive.pause("success");
       } else {
         rive.play("success");
+      }
+    }
+  }
+  function onStartblinkClick() {
+    if (rive) {
+      if (rive.playingAnimationNames.includes("blink")) {
+        rive.pause("blink");
+      } else {
+        rive.play("blink");
       }
     }
   }
@@ -66,11 +88,14 @@ export default function App() {
         <RiveComponent style={{ height: "1000px" }} />
       </div>
       <div>
-        <button id="idle" onClick={onStartTruckClick}>
-          {truckButtonText}
+        <button id="idle" onClick={onStartidleClick}>
+          {idleButtonText}
         </button>
-        <button id="wipers" onClick={onStartWiperClick}>
-          {wiperButtonText}
+        <button id="success" onClick={onStartsuccessClick}>
+          {successButtonText}
+        </button>
+        <button id="blink" onClick={onStartblinkClick}>
+          {blinkButtonText}
         </button>
       </div>
     </>

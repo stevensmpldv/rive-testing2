@@ -25,6 +25,8 @@ export default function App() {
             setidleButtonText("Stop idle");
           } else if (name === "success") {
             setsuccessButtonText("Stop success");
+          } else if (name === "blink"){
+            setblinkButtonText("Stop blink")
           }
         });
       });
@@ -37,7 +39,8 @@ export default function App() {
             setidleButtonText("Start idle");
           } else if (name === "success") {
             setsuccessButtonText("Start success");
-          }
+          } else if (name === "blink") {
+            setblinkButtonText("Start blink");
         });
       });
     }

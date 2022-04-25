@@ -123,13 +123,13 @@ if(rive){
 
  <div>
  <Button theme="blue"  onClick={() => LISTENINGB.value = true}>
-     Listen
+     LISTEN
  </Button>
 </div>
 
 <div>
  <Button theme="green"  onClick={() => LISTENINGB.value = false}>
-     Idle
+     STOP LISTEN
  </Button>
 </div>
 

@@ -16,7 +16,7 @@ const theme = {
         hover: '#239B56'
     }
 }
-//button styling
+//button styling 
 const Button = styled.button`
     background-color: ${props => theme[props.theme].default};
     color: white;
@@ -47,46 +47,42 @@ export default function App() {
     const FOOTTAP = "trigFoottap"
     const SUCCESS = "trigSuccess"
     const FAIL = "trigFail";
-
+    
 
 
 
 //load panda frame image and auto play idle
     const { rive, RiveComponent } = useRive({
-<<<<<<< HEAD
         src: "audio_panda_teddy_06.riv",
-=======
-        src: "audio_panda_teddy_05.riv",
->>>>>>> 7b1f0fcefa20bf7ff7e0265dbae991021e74efa0
         stateMachines: STATEMACHINE,
         autoplay: true,
         layout: new Layout({ fit: Fit.Contain }),
 
     });
 // state machine constants
-    const BLINKB = useStateMachineInput(
-        rive,
-        STATEMACHINE,
-        BLINK
+    const BLINKB = useStateMachineInput( 
+        rive, 
+        STATEMACHINE, 
+        BLINK 
         );
-    const FOOTTAPB = useStateMachineInput(
-        rive,
-        STATEMACHINE,
-        FOOTTAP
+    const FOOTTAPB = useStateMachineInput( 
+        rive, 
+        STATEMACHINE, 
+        FOOTTAP 
             );
-    const SUCCESSB = useStateMachineInput(
-        rive,
-        STATEMACHINE,
-        SUCCESS
+    const SUCCESSB = useStateMachineInput( 
+        rive, 
+        STATEMACHINE, 
+        SUCCESS 
                 );
-    const FAILB = useStateMachineInput(
-        rive,
-        STATEMACHINE,
-        FAIL
+    const FAILB = useStateMachineInput( 
+        rive, 
+        STATEMACHINE, 
+        FAIL 
         );
-    const LISTENINGB = useStateMachineInput(
-        rive,
-        STATEMACHINE,
+    const LISTENINGB = useStateMachineInput( 
+        rive, 
+        STATEMACHINE, 
         LISTENING
             );
 

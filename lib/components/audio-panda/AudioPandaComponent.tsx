@@ -16,7 +16,7 @@ const theme = {
         hover: '#239B56'
     }
 }
-//button styling 
+//button styling
 const Button = styled.button`
     background-color: ${props => theme[props.theme].default};
     color: white;
@@ -47,7 +47,7 @@ export default function App() {
     const FOOTTAP = "trigFoottap"
     const SUCCESS = "trigSuccess"
     const FAIL = "trigFail";
-    
+
 
 
 
@@ -60,29 +60,29 @@ export default function App() {
 
     });
 // state machine constants
-    const BLINKB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
-        BLINK 
+    const BLINKB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        BLINK
         );
-    const FOOTTAPB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
-        FOOTTAP 
+    const FOOTTAPB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        FOOTTAP
             );
-    const SUCCESSB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
-        SUCCESS 
+    const SUCCESSB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        SUCCESS
                 );
-    const FAILB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
-        FAIL 
+    const FAILB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        FAIL
         );
-    const LISTENINGB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
+    const LISTENINGB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
         LISTENING
             );
 

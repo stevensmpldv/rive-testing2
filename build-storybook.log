@@ -1,8 +1,14 @@
 info @storybook/react v6.4.19
 info 
+<<<<<<< Updated upstream
 info => Cleaning outputDir: C:\\Users\\Franc\\AppData\\Local\\Temp\\chromatic--35240-H7nGbTnmArOT
 info => Loading presets
 info => Copying static files: C:\Users\Franc\Documents\GitHub\rive-testing2\public at C:\Users\Franc\AppData\Local\Temp\chromatic--35240-H7nGbTnmArOT\
+=======
+info => Cleaning outputDir: /var/folders/cp/jym8s31j03x9kttzk4pyrg0w0000gn/T/chromatic--6841-vVNCKVJmoxv8
+info => Loading presets
+info => Copying static files: /Users/stevenbaxter/Documents/GitHub/rive-testing/public at /var/folders/cp/jym8s31j03x9kttzk4pyrg0w0000gn/T/chromatic--6841-vVNCKVJmoxv8/
+>>>>>>> Stashed changes
 info => Compiling manager..
 info => Compiling preview..
 info => Using implicit CSS loaders
@@ -11,11 +17,16 @@ info => Using default Webpack4 setup
 <s> [webpack.Progress] 10% building 0/0 modules 0 active 
 <s> [webpack.Progress] 10% building 0/1 modules 1 active multi C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\core-client\dist\esm\globals\polyfills.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\core-client\dist\esm\globals\globals.js C:\Users\Franc\Documents\GitHub\rive-testing2\storybook-init-framework-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-docs\dist\esm\frameworks\common\config.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-docs\dist\esm\frameworks\react\config.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\react\dist\esm\client\preview\config-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-links\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-actions\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-actions\dist\esm\preset\addArgs.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-backgrounds\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-backgrounds\dist\esm\preset\addParameter.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-measure\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-outline\dist\esm\preset\addDecorator.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\@storybook\addon-interactions\dist\esm\preset\argsEnhancers.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\.storybook\preview.js-generated-config-entry.js C:\Users\Franc\Documents\GitHub\rive-testing2\generated-stories-entry.js
 <s> [webpack.Progress] 10% building 1/1 modules 0 active 
+<<<<<<< Updated upstream
 (node:34804) DeprecationWarning: Default PostCSS plugins are deprecated. When switching to '@storybook/addon-postcss',
+=======
+(node:6857) DeprecationWarning: Default PostCSS plugins are deprecated. When switching to '@storybook/addon-postcss',
+>>>>>>> Stashed changes
 you will need to add your own plugins, such as 'postcss-flexbugs-fixes' and 'autoprefixer'.
 
 See https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-default-postcss-plugins for details.
 (Use `node --trace-deprecation ...` to show where the warning was created)
+<<<<<<< Updated upstream
 <s> [webpack.Progress] 10% building 1/2 modules 1 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\babel-loader\lib\index.js??ref--4-0!C:\Users\Franc\Documents\GitHub\rive-testing2\storybook-init-framework-entry.js
 <s> [webpack.Progress] 10% building 1/3 modules 2 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\babel-loader\lib\index.js??ref--4-0!C:\Users\Franc\Documents\GitHub\rive-testing2\generated-stories-entry.js
 <s> [webpack.Progress] 10% building 1/4 modules 3 active C:\Users\Franc\Documents\GitHub\rive-testing2\node_modules\babel-loader\lib\index.js??ref--4-0!C:\Users\Franc\Documents\GitHub\rive-testing2\.storybook\preview.js-generated-config-entry.js
@@ -5747,3 +5758,838 @@ ERR!   hash: 'd6a39d5bbbf0a7323928',
 ERR!   startTime: 1650487546146,
 ERR!   endTime: 1650487554759
 ERR! }
+=======
+<s> [webpack.Progress] 10% building 1/2 modules 1 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/storybook-init-framework-entry.js
+<s> [webpack.Progress] 10% building 1/3 modules 2 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/generated-stories-entry.js
+<s> [webpack.Progress] 10% building 1/4 modules 3 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/.storybook/preview.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/5 modules 4 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/preset/addDecorator.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/6 modules 5 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preset/addDecorator.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/7 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preset/addArgs.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/8 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/preset/addDecorator.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/9 modules 8 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/preset/addParameter.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/10 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-measure/dist/esm/preset/addDecorator.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/11 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-outline/dist/esm/preset/addDecorator.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/12 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-interactions/dist/esm/preset/argsEnhancers.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/13 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/common/config.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/14 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/15 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/config-generated-config-entry.js
+<s> [webpack.Progress] 10% building 1/16 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/globals.js
+<s> [webpack.Progress] 10% building 1/17 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 10% building 2/17 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 10% building 3/17 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 10% building 4/17 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 10% building 5/17 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 10% building 6/17 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 10% building 7/17 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 10% building 8/17 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 11% building 9/17 modules 8 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 11% building 10/17 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 11% building 11/17 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 11% building 12/17 modules 5 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-client/dist/esm/globals/polyfills.js
+<s> [webpack.Progress] 11% building 12/18 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/preset/addDecorator.js
+<s> [webpack.Progress] 11% building 12/19 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preset/addDecorator.js
+<s> [webpack.Progress] 11% building 12/20 modules 8 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preset/addArgs.js
+<s> [webpack.Progress] 11% building 12/21 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/preset/addDecorator.js
+<s> [webpack.Progress] 11% building 12/22 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/preset/addParameter.js
+<s> [webpack.Progress] 11% building 12/23 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-measure/dist/esm/preset/addDecorator.js
+<s> [webpack.Progress] 11% building 12/24 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-outline/dist/esm/preset/addDecorator.js
+<s> [webpack.Progress] 11% building 12/25 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-interactions/dist/esm/preset/argsEnhancers.js
+<s> [webpack.Progress] 11% building 12/26 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/common/config.js
+<s> [webpack.Progress] 11% building 12/27 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 11% building 13/27 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 11% building 14/27 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 11% building 15/27 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 11% building 16/27 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 12% building 17/27 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 12% building 18/27 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 12% building 19/27 modules 8 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 12% building 20/27 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 12% building 21/27 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 12% building 22/27 modules 5 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/config.js
+<s> [webpack.Progress] 12% building 23/27 modules 4 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/preset/addParameter.js
+<s> [webpack.Progress] 12% building 24/27 modules 3 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/.storybook/preview.js-generated-config-entry.js
+<s> [webpack.Progress] 12% building 24/28 modules 4 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/config.js
+<s> [webpack.Progress] 13% building 25/28 modules 3 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/config.js
+<s> [webpack.Progress] 13% building 26/28 modules 2 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/config.js
+<s> [webpack.Progress] 13% building 27/28 modules 1 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/config.js
+<s> [webpack.Progress] 13% building 28/28 modules 0 active 
+<s> [webpack.Progress] 13% building 28/29 modules 1 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/.storybook/preview.js
+<s> [webpack.Progress] 13% building 28/30 modules 2 active /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components sync /^\.(?:(?:^|\/|(?:(?:(?!(?:^|\/)\.).)*?)\/)(?!\.)(?=.)[^/]*?\.stories\.mdx)$/
+<s> [webpack.Progress] 13% building 28/31 modules 3 active /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components sync /^\.(?:(?:^|\/|(?:(?:(?!(?:^|\/)\.).)*?)\/)(?!\.)(?=.)[^/]*?\.stories\.(js|jsx|ts|tsx))$/
+<s> [webpack.Progress] 13% building 28/32 modules 4 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/index.js
+<s> [webpack.Progress] 13% building 28/33 modules 5 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preset/addArgsHelpers.js
+<s> [webpack.Progress] 13% building 28/34 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/index.js
+<s> [webpack.Progress] 13% building 28/35 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-outline/dist/esm/constants.js
+<s> [webpack.Progress] 13% building 28/36 modules 8 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-measure/dist/esm/withMeasure.js
+<s> [webpack.Progress] 13% building 28/37 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-measure/dist/esm/constants.js
+<s> [webpack.Progress] 13% building 28/38 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-outline/dist/esm/withOutline.js
+<s> [webpack.Progress] 13% building 28/39 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/common/enhanceArgTypes.js
+<s> [webpack.Progress] 13% building 28/40 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/extractArgTypes.js
+<s> [webpack.Progress] 13% building 28/41 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/jsxDecorator.js
+<s> [webpack.Progress] 13% building 29/41 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/jsxDecorator.js
+<s> [webpack.Progress] 13% building 30/41 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/jsxDecorator.js
+<s> [webpack.Progress] 13% building 30/42 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.function.name.js
+<s> [webpack.Progress] 13% building 30/43 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.entries.js
+<s> [webpack.Progress] 13% building 30/44 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.symbol.js
+<s> [webpack.Progress] 13% building 30/45 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.symbol.description.js
+<s> [webpack.Progress] 13% building 30/46 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.to-string.js
+<s> [webpack.Progress] 13% building 30/47 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.symbol.iterator.js
+<s> [webpack.Progress] 13% building 30/48 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.string.iterator.js
+<s> [webpack.Progress] 13% building 30/49 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.iterator.js
+<s> [webpack.Progress] 13% building 30/50 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/web.dom-collections.iterator.js
+<s> [webpack.Progress] 13% building 30/51 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.slice.js
+<s> [webpack.Progress] 13% building 30/52 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.from.js
+<s> [webpack.Progress] 13% building 30/53 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.keys.js
+<s> [webpack.Progress] 13% building 30/54 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.filter.js
+<s> [webpack.Progress] 13% building 30/55 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.get-own-property-descriptor.js
+<s> [webpack.Progress] 13% building 30/56 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.for-each.js
+<s> [webpack.Progress] 13% building 30/57 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/web.dom-collections.for-each.js
+<s> [webpack.Progress] 13% building 30/58 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.get-own-property-descriptors.js
+<s> [webpack.Progress] 13% building 30/59 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-properties.js
+<s> [webpack.Progress] 13% building 30/60 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-property.js
+<s> [webpack.Progress] 13% building 31/60 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-property.js
+<s> [webpack.Progress] 13% building 32/60 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-property.js
+<s> [webpack.Progress] 13% building 33/60 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-property.js
+<s> [webpack.Progress] 14% building 34/60 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-property.js
+<s> [webpack.Progress] 14% building 35/60 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-property.js
+<s> [webpack.Progress] 14% building 36/60 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-property.js
+<s> [webpack.Progress] 14% building 37/60 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-property.js
+<s> [webpack.Progress] 14% building 38/60 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.define-property.js
+<s> [webpack.Progress] 14% building 38/61 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/render.js
+<s> [webpack.Progress] 14% building 39/61 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/render.js
+<s> [webpack.Progress] 14% building 40/61 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/render.js
+<s> [webpack.Progress] 14% building 40/62 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 14% building 41/62 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 15% building 42/62 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 15% building 43/62 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 15% building 44/62 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 15% building 45/62 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 15% building 46/62 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 15% building 47/62 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 15% building 48/62 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 15% building 49/62 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 50/62 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 51/62 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 52/62 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 53/62 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 54/62 modules 8 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 55/62 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 56/62 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 57/62 modules 5 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 58/62 modules 4 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 16% building 58/63 modules 5 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.regexp.constructor.js
+<s> [webpack.Progress] 16% building 58/64 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.regexp.exec.js
+<s> [webpack.Progress] 16% building 58/65 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.regexp.to-string.js
+<s> [webpack.Progress] 17% building 59/65 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.regexp.to-string.js
+<s> [webpack.Progress] 17% building 59/66 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/harmony-module.js
+<s> [webpack.Progress] 17% building 59/67 modules 8 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.freeze.js
+<s> [webpack.Progress] 17% building 60/67 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.freeze.js
+<s> [webpack.Progress] 17% building 61/67 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.freeze.js
+<s> [webpack.Progress] 17% building 62/67 modules 5 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.freeze.js
+<s> [webpack.Progress] 17% building 63/67 modules 4 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.freeze.js
+<s> [webpack.Progress] 17% building 64/67 modules 3 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.freeze.js
+<s> [webpack.Progress] 17% building 65/67 modules 2 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.freeze.js
+<s> [webpack.Progress] 17% building 65/68 modules 3 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/preview.js
+<s> [webpack.Progress] 17% building 66/68 modules 2 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/preview.js
+<s> [webpack.Progress] 18% building 67/68 modules 1 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/preview.js
+<s> [webpack.Progress] 18% building 67/69 modules 2 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/constants.js
+<s> [webpack.Progress] 18% building 67/70 modules 3 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-measure/dist/esm/util.js
+<s> [webpack.Progress] 18% building 67/71 modules 4 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-outline/dist/esm/helpers.js
+<s> [webpack.Progress] 18% building 67/72 modules 5 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-outline/dist/esm/outlineCSS.js
+<s> [webpack.Progress] 18% building 67/73 modules 6 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/regenerator-runtime/runtime.js
+<s> [webpack.Progress] 18% building 67/74 modules 7 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/shared.js
+<s> [webpack.Progress] 18% building 67/75 modules 8 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-measure/dist/esm/box-model/canvas.js
+<s> [webpack.Progress] 18% building 67/76 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-measure/dist/esm/box-model/visualizer.js
+<s> [webpack.Progress] 18% building 67/77 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/index.js
+<s> [webpack.Progress] 18% building 67/78 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-logger/dist/esm/index.js
+<s> [webpack.Progress] 18% building 67/79 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/index.js
+<s> [webpack.Progress] 18% building 67/80 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.promise.js
+<s> [webpack.Progress] 18% building 68/80 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.promise.js
+<s> [webpack.Progress] 18% building 69/80 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.promise.js
+<s> [webpack.Progress] 18% building 70/80 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.promise.js
+<s> [webpack.Progress] 18% building 71/80 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.promise.js
+<s> [webpack.Progress] 18% building 72/80 modules 8 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.promise.js
+<s> [webpack.Progress] 18% building 72/81 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/source-loader/dist/cjs/index.js??ref--10!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/AudioPandaComponent.stories.tsx
+<s> [webpack.Progress] 18% building 72/82 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/source-loader/dist/cjs/index.js??ref--10!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/DownloadLoader.stories.tsx
+<s> [webpack.Progress] 18% building 72/83 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/source-loader/dist/cjs/index.js??ref--10!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.stories.tsx
+<s> [webpack.Progress] 18% building 72/84 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/source-loader/dist/cjs/index.js??ref--10!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/RatingFeedback.stories.tsx
+<s> [webpack.Progress] 18% building 73/84 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/source-loader/dist/cjs/index.js??ref--10!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/RatingFeedback.stories.tsx
+<s> [webpack.Progress] 18% building 73/85 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/export.js
+<s> [webpack.Progress] 18% building 73/86 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/descriptors.js
+<s> [webpack.Progress] 18% building 73/87 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/define-well-known-symbol.js
+<s> [webpack.Progress] 18% building 73/88 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/string-multibyte.js
+<s> [webpack.Progress] 18% building 73/89 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-string-tag-support.js
+<s> [webpack.Progress] 18% building 73/90 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-indexed-object.js
+<s> [webpack.Progress] 18% building 73/91 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/global.js
+<s> [webpack.Progress] 18% building 73/92 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-define-property.js
+<s> [webpack.Progress] 18% building 73/93 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.concat.js
+<s> [webpack.Progress] 18% building 74/93 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.concat.js
+<s> [webpack.Progress] 18% building 74/94 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/global/window.js
+<s> [webpack.Progress] 18% building 74/95 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/index.js
+<s> [webpack.Progress] 19% building 75/95 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/index.js
+<s> [webpack.Progress] 19% building 76/95 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/index.js
+<s> [webpack.Progress] 19% building 77/95 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/index.js
+<s> [webpack.Progress] 19% building 78/95 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/index.js
+<s> [webpack.Progress] 19% building 79/95 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/index.js
+<s> [webpack.Progress] 19% building 79/96 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/function-uncurry-this.js
+<s> [webpack.Progress] 19% building 79/97 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/internal-metadata.js
+<s> [webpack.Progress] 19% building 80/97 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/internal-metadata.js
+<s> [webpack.Progress] 19% building 80/98 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/decorators/index.js
+<s> [webpack.Progress] 19% building 80/99 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.string.replace.js
+<s> [webpack.Progress] 19% building 80/100 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/blocks/index.js
+<s> [webpack.Progress] 19% building 80/101 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.string.match.js
+<s> [webpack.Progress] 19% building 80/102 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.assign.js
+<s> [webpack.Progress] 19% building 80/103 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.string.split.js
+<s> [webpack.Progress] 19% building 80/104 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.string.search.js
+<s> [webpack.Progress] 19% building 80/105 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 19% building 81/105 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 19% building 82/105 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 19% building 83/105 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 20% building 84/105 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 20% building 85/105 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 20% building 86/105 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 20% building 87/105 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 20% building 88/105 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 20% building 89/105 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/jest-mock/build/index.js
+<s> [webpack.Progress] 20% building 89/106 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-object.js
+<s> [webpack.Progress] 20% building 89/107 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/fails.js
+<s> [webpack.Progress] 20% building 89/108 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/index.js
+<s> [webpack.Progress] 20% building 90/108 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/index.js
+<s> [webpack.Progress] 20% building 90/109 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/freezing.js
+<s> [webpack.Progress] 20% building 90/110 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/regexp-flags.js
+<s> [webpack.Progress] 20% building 90/111 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-string.js
+<s> [webpack.Progress] 20% building 90/112 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-is-prototype-of.js
+<s> [webpack.Progress] 20% building 90/113 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/regexp-exec.js
+<s> [webpack.Progress] 20% building 90/114 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/redefine.js
+<s> [webpack.Progress] 20% building 90/115 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/function-name.js
+<s> [webpack.Progress] 20% building 90/116 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/an-object.js
+<s> [webpack.Progress] 20% building 90/117 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/regexp-unsupported-ncg.js
+<s> [webpack.Progress] 20% building 90/118 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/regexp-unsupported-dot-all.js
+<s> [webpack.Progress] 20% building 90/119 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/well-known-symbol.js
+<s> [webpack.Progress] 20% building 91/119 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/well-known-symbol.js
+<s> [webpack.Progress] 20% building 91/120 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/set-species.js
+<s> [webpack.Progress] 20% building 91/121 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/has-own-property.js
+<s> [webpack.Progress] 20% building 91/122 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/regexp-sticky-helpers.js
+<s> [webpack.Progress] 20% building 91/123 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-own-property-names.js
+<s> [webpack.Progress] 20% building 91/124 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/internal-state.js
+<s> [webpack.Progress] 20% building 91/125 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-regexp.js
+<s> [webpack.Progress] 20% building 91/126 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core-events/dist/esm/index.js
+<s> [webpack.Progress] 20% building 91/127 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addons/dist/esm/public_api.js
+<s> [webpack.Progress] 20% building 91/128 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/instrumenter/dist/esm/index.js
+<s> [webpack.Progress] 21% building 92/128 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/instrumenter/dist/esm/index.js
+<s> [webpack.Progress] 21% building 93/128 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/instrumenter/dist/esm/index.js
+<s> [webpack.Progress] 21% building 93/129 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/constants.js
+<s> [webpack.Progress] 21% building 94/129 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/constants.js
+<s> [webpack.Progress] 21% building 95/129 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/constants.js
+<s> [webpack.Progress] 21% building 96/129 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-links/dist/esm/constants.js
+<s> [webpack.Progress] 21% building 96/130 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/global.js
+<s> [webpack.Progress] 21% building 97/130 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/global.js
+<s> [webpack.Progress] 21% building 98/130 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/buildin/global.js
+<s> [webpack.Progress] 21% building 98/131 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/create-non-enumerable-property.js
+<s> [webpack.Progress] 21% building 98/132 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/inherit-if-required.js
+<s> [webpack.Progress] 21% building 98/133 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-forced.js
+<s> [webpack.Progress] 21% building 99/133 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-forced.js
+<s> [webpack.Progress] 22% building 100/133 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-forced.js
+<s> [webpack.Progress] 22% building 101/133 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-forced.js
+<s> [webpack.Progress] 22% building 101/134 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 22% building 102/134 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 22% building 103/134 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 22% building 104/134 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 22% building 105/134 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 22% building 106/134 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 22% building 107/134 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 22% building 108/134 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 23% building 109/134 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 23% building 110/134 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 23% building 111/134 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 23% building 112/134 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 23% building 113/134 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 23% building 114/134 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 23% building 115/134 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/features/symbol/index.js
+<s> [webpack.Progress] 23% building 115/135 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/ClientApi.js
+<s> [webpack.Progress] 23% building 116/135 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/ClientApi.js
+<s> [webpack.Progress] 24% building 117/135 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/ClientApi.js
+<s> [webpack.Progress] 24% building 118/135 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/ClientApi.js
+<s> [webpack.Progress] 24% building 119/135 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/ClientApi.js
+<s> [webpack.Progress] 24% building 120/135 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/ClientApi.js
+<s> [webpack.Progress] 24% building 121/135 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/ClientApi.js
+<s> [webpack.Progress] 24% building 121/136 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-v8-version.js
+<s> [webpack.Progress] 24% building 122/136 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-v8-version.js
+<s> [webpack.Progress] 24% building 122/137 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-is-node.js
+<s> [webpack.Progress] 24% building 123/137 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-is-node.js
+<s> [webpack.Progress] 24% building 124/137 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-is-node.js
+<s> [webpack.Progress] 25% building 125/137 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-is-node.js
+<s> [webpack.Progress] 25% building 126/137 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-is-node.js
+<s> [webpack.Progress] 25% building 126/138 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-is-browser.js
+<s> [webpack.Progress] 25% building 127/138 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-is-browser.js
+<s> [webpack.Progress] 25% building 128/138 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-is-browser.js
+<s> [webpack.Progress] 25% building 129/138 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-is-browser.js
+<s> [webpack.Progress] 25% building 129/139 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/require-object-coercible.js
+<s> [webpack.Progress] 25% building 129/140 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/path.js
+<s> [webpack.Progress] 25% building 129/141 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/indexed-object.js
+<s> [webpack.Progress] 25% building 130/141 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/indexed-object.js
+<s> [webpack.Progress] 25% building 130/142 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-property-key.js
+<s> [webpack.Progress] 25% building 131/142 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-property-key.js
+<s> [webpack.Progress] 25% building 132/142 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-property-key.js
+<s> [webpack.Progress] 25% building 133/142 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-property-key.js
+<s> [webpack.Progress] 25% building 133/143 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-method-has-species-support.js
+<s> [webpack.Progress] 25% building 133/144 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-species-create.js
+<s> [webpack.Progress] 25% building 133/145 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/create-property.js
+<s> [webpack.Progress] 25% building 133/146 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/length-of-array-like.js
+<s> [webpack.Progress] 25% building 133/147 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-array.js
+<s> [webpack.Progress] 25% building 133/148 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-object.js
+<s> [webpack.Progress] 25% building 133/149 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/v8-prototype-define-bug.js
+<s> [webpack.Progress] 25% building 133/150 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/ie8-dom-define.js
+<s> [webpack.Progress] 26% building 134/150 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/ie8-dom-define.js
+<s> [webpack.Progress] 26% building 134/151 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/well-known-symbol-wrapped.js
+<s> [webpack.Progress] 26% building 134/152 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-integer-or-infinity.js
+<s> [webpack.Progress] 26% building 134/153 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/copy-constructor-properties.js
+<s> [webpack.Progress] 26% building 134/154 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/set-global.js
+<s> [webpack.Progress] 26% building 134/155 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-own-property-descriptor.js
+<s> [webpack.Progress] 26% building 135/155 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-own-property-descriptor.js
+<s> [webpack.Progress] 26% building 135/156 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/queue.js
+<s> [webpack.Progress] 26% building 135/157 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/perform.js
+<s> [webpack.Progress] 26% building 135/158 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/new-promise-capability.js
+<s> [webpack.Progress] 26% building 135/159 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react/index.js
+<s> [webpack.Progress] 26% building 135/160 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/util-deprecate/browser.js
+<s> [webpack.Progress] 26% building 135/161 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/function-bind-native.js
+<s> [webpack.Progress] 26% building 135/162 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/host-report-errors.js
+<s> [webpack.Progress] 26% building 135/163 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/uid.js
+<s> [webpack.Progress] 26% building 136/163 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/uid.js
+<s> [webpack.Progress] 26% building 136/164 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/models/index.js
+<s> [webpack.Progress] 26% building 136/165 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preview/index.js
+<s> [webpack.Progress] 26% building 136/166 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/function-apply.js
+<s> [webpack.Progress] 26% building 137/166 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/function-apply.js
+<s> [webpack.Progress] 26% building 137/167 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/decorators/withBackground.js
+<s> [webpack.Progress] 26% building 138/167 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/decorators/withBackground.js
+<s> [webpack.Progress] 26% building 138/168 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/target/es5.js
+<s> [webpack.Progress] 26% building 138/169 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/blocks/mdx.js
+<s> [webpack.Progress] 26% building 138/170 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/function-call.js
+<s> [webpack.Progress] 26% building 138/171 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-assign.js
+<s> [webpack.Progress] 26% building 138/172 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/regexp-exec-abstract.js
+<s> [webpack.Progress] 26% building 138/173 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/advance-string-index.js
+<s> [webpack.Progress] 26% building 138/174 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/get-method.js
+<s> [webpack.Progress] 26% building 138/175 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/lib/index.js
+<s> [webpack.Progress] 26% building 138/176 modules 38 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/ts-dedent/esm/index.js
+<s> [webpack.Progress] 26% building 139/176 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/ts-dedent/esm/index.js
+<s> [webpack.Progress] 26% building 140/176 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/ts-dedent/esm/index.js
+<s> [webpack.Progress] 26% building 141/176 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/ts-dedent/esm/index.js
+<s> [webpack.Progress] 27% building 142/176 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/ts-dedent/esm/index.js
+<s> [webpack.Progress] 27% building 142/177 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-callable.js
+<s> [webpack.Progress] 27% building 143/177 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-callable.js
+<s> [webpack.Progress] 27% building 144/177 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-callable.js
+<s> [webpack.Progress] 27% building 145/177 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-callable.js
+<s> [webpack.Progress] 27% building 145/178 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/types.js
+<s> [webpack.Progress] 27% building 145/179 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/classof.js
+<s> [webpack.Progress] 27% building 145/180 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/same-value.js
+<s> [webpack.Progress] 27% building 146/180 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/same-value.js
+<s> [webpack.Progress] 27% building 146/181 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/extractDocgenProps.js
+<s> [webpack.Progress] 27% building 147/181 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/extractDocgenProps.js
+<s> [webpack.Progress] 27% building 148/181 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/extractDocgenProps.js
+<s> [webpack.Progress] 27% building 148/182 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-create.js
+<s> [webpack.Progress] 27% building 148/183 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/shared.js
+<s> [webpack.Progress] 27% building 148/184 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/inspect-source.js
+<s> [webpack.Progress] 27% building 149/184 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/inspect-source.js
+<s> [webpack.Progress] 27% building 149/185 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/use-symbol-as-uid.js
+<s> [webpack.Progress] 28% building 150/185 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/use-symbol-as-uid.js
+<s> [webpack.Progress] 28% building 150/186 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/get-built-in.js
+<s> [webpack.Progress] 28% building 150/187 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/native-symbol.js
+<s> [webpack.Progress] 28% building 150/188 modules 38 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/native-weak-map.js
+<s> [webpack.Progress] 28% building 150/189 modules 39 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-keys-internal.js
+<s> [webpack.Progress] 28% building 150/190 modules 40 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/classof-raw.js
+<s> [webpack.Progress] 28% building 151/190 modules 39 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/classof-raw.js
+<s> [webpack.Progress] 28% building 151/191 modules 40 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/enum-bug-keys.js
+<s> [webpack.Progress] 28% building 151/192 modules 41 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/hidden-keys.js
+<s> [webpack.Progress] 28% building 152/192 modules 40 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/hidden-keys.js
+<s> [webpack.Progress] 28% building 153/192 modules 39 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/hidden-keys.js
+<s> [webpack.Progress] 28% building 154/192 modules 38 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/hidden-keys.js
+<s> [webpack.Progress] 28% building 154/193 modules 39 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addons/dist/esm/index.js
+<s> [webpack.Progress] 28% building 155/193 modules 38 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addons/dist/esm/index.js
+<s> [webpack.Progress] 28% building 155/194 modules 39 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/instrumenter/dist/esm/instrumenter.js
+<s> [webpack.Progress] 28% building 155/195 modules 40 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react/jsx-runtime.js
+<s> [webpack.Progress] 28% building 155/196 modules 41 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/index.js
+<s> [webpack.Progress] 28% building 155/197 modules 42 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.values.js
+<s> [webpack.Progress] 28% building 155/198 modules 43 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.object.get-prototype-of.js
+<s> [webpack.Progress] 28% building 155/199 modules 44 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.set.js
+<s> [webpack.Progress] 28% building 156/199 modules 43 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.set.js
+<s> [webpack.Progress] 28% building 157/199 modules 42 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.set.js
+<s> [webpack.Progress] 28% building 158/199 modules 41 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.set.js
+<s> [webpack.Progress] 29% building 159/199 modules 40 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.set.js
+<s> [webpack.Progress] 29% building 160/199 modules 39 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.set.js
+<s> [webpack.Progress] 29% building 161/199 modules 38 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.set.js
+<s> [webpack.Progress] 29% building 162/199 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.set.js
+<s> [webpack.Progress] 29% building 163/199 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.set.js
+<s> [webpack.Progress] 29% building 163/200 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-element-to-jsx-string/dist/cjs/index.js
+<s> [webpack.Progress] 29% building 164/200 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-element-to-jsx-string/dist/cjs/index.js
+<s> [webpack.Progress] 29% building 165/200 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-element-to-jsx-string/dist/cjs/index.js
+<s> [webpack.Progress] 29% building 166/200 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-element-to-jsx-string/dist/cjs/index.js
+<s> [webpack.Progress] 30% building 167/200 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-element-to-jsx-string/dist/cjs/index.js
+<s> [webpack.Progress] 30% building 167/201 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-dom/index.js
+<s> [webpack.Progress] 30% building 168/201 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-dom/index.js
+<s> [webpack.Progress] 30% building 168/202 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.function.bind.js
+<s> [webpack.Progress] 30% building 169/202 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.function.bind.js
+<s> [webpack.Progress] 30% building 170/202 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.function.bind.js
+<s> [webpack.Progress] 30% building 170/203 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/create-property-descriptor.js
+<s> [webpack.Progress] 30% building 171/203 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/create-property-descriptor.js
+<s> [webpack.Progress] 30% building 172/203 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/create-property-descriptor.js
+<s> [webpack.Progress] 30% building 173/203 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/create-property-descriptor.js
+<s> [webpack.Progress] 30% building 174/203 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/create-property-descriptor.js
+<s> [webpack.Progress] 31% building 175/203 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/create-property-descriptor.js
+<s> [webpack.Progress] 31% building 176/203 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/create-property-descriptor.js
+<s> [webpack.Progress] 31% building 176/204 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-set-prototype-of.js
+<s> [webpack.Progress] 31% building 176/205 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.reflect.construct.js
+<s> [webpack.Progress] 31% building 176/206 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.replace-all.js
+<s> [webpack.Progress] 31% building 177/206 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.replace-all.js
+<s> [webpack.Progress] 31% building 177/207 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 31% building 178/207 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 31% building 179/207 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 31% building 180/207 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 31% building 181/207 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 31% building 182/207 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 31% building 183/207 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 32% building 184/207 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 32% building 185/207 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 32% building 186/207 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 32% building 187/207 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 32% building 188/207 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 32% building 189/207 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 32% building 190/207 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.pattern-match.js
+<s> [webpack.Progress] 32% building 190/208 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/StoryStoreFacade.js
+<s> [webpack.Progress] 32% building 190/209 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/style-loader/dist/cjs.js!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/StoryStyles.css
+<s> [webpack.Progress] 32% building 191/209 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/StoryStoreFacade.js
+<s> [webpack.Progress] 32% building 191/210 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/style-loader/dist/cjs.js!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/StoryStyles.css
+<s> [webpack.Progress] 33% building 192/210 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/StoryStoreFacade.js
+<s> [webpack.Progress] 33% building 192/211 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/style-loader/dist/cjs.js!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/StoryStyles.css
+<s> [webpack.Progress] 33% building 193/211 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/StoryStoreFacade.js
+<s> [webpack.Progress] 33% building 193/212 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/style-loader/dist/cjs.js!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/StoryStyles.css
+<s> [webpack.Progress] 33% building 194/212 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/client-api/dist/esm/StoryStoreFacade.js
+<s> [webpack.Progress] 33% building 194/213 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-user-agent.js
+<s> [webpack.Progress] 33% building 195/213 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/engine-user-agent.js
+<s> [webpack.Progress] 33% building 195/214 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/StoryStyles.css
+<s> [webpack.Progress] 33% building 196/214 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/StoryStyles.css
+<s> [webpack.Progress] 33% building 196/215 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/StoryStyles.css
+<s> [webpack.Progress] 33% building 197/215 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/StoryStyles.css
+<s> [webpack.Progress] 33% building 198/215 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/StoryStyles.css
+<s> [webpack.Progress] 33% building 199/215 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/StoryStyles.css
+<s> [webpack.Progress] 34% building 200/215 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/StoryStyles.css
+<s> [webpack.Progress] 34% building 201/215 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/StoryStyles.css
+<s> [webpack.Progress] 34% building 202/215 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/StoryStyles.css
+<s> [webpack.Progress] 34% building 203/215 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/StoryStyles.css
+<s> [webpack.Progress] 34% building 203/216 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.observable.js
+<s> [webpack.Progress] 34% building 203/217 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.metadata.js
+<s> [webpack.Progress] 34% building 203/218 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.dispose.js
+<s> [webpack.Progress] 34% building 203/219 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.matcher.js
+<s> [webpack.Progress] 34% building 203/220 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.async-dispose.js
+<s> [webpack.Progress] 34% building 204/220 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.async-dispose.js
+<s> [webpack.Progress] 34% building 205/220 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.async-dispose.js
+<s> [webpack.Progress] 34% building 206/220 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/esnext.symbol.async-dispose.js
+<s> [webpack.Progress] 34% building 206/221 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-primitive.js
+<s> [webpack.Progress] 34% building 207/221 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-primitive.js
+<s> [webpack.Progress] 34% building 207/222 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react/cjs/react.production.min.js
+<s> [webpack.Progress] 34% building 207/223 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-symbol.js
+<s> [webpack.Progress] 34% building 207/224 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-species-constructor.js
+<s> [webpack.Progress] 34% building 207/225 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-length.js
+<s> [webpack.Progress] 34% building 208/225 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-length.js
+<s> [webpack.Progress] 34% building 208/226 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/document-create-element.js
+<s> [webpack.Progress] 34% building 208/227 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/AudioPandaComponent.tsx
+<s> [webpack.Progress] 35% building 209/227 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/AudioPandaComponent.tsx
+<s> [webpack.Progress] 35% building 209/228 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/instrumenter/dist/esm/types.js
+<s> [webpack.Progress] 35% building 209/229 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addons/dist/esm/hooks.js
+<s> [webpack.Progress] 35% building 209/230 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/own-keys.js
+<s> [webpack.Progress] 35% building 209/231 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addons/dist/esm/storybook-channel-mock.js
+<s> [webpack.Progress] 35% building 210/231 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addons/dist/esm/storybook-channel-mock.js
+<s> [webpack.Progress] 35% building 210/232 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/index.js
+<s> [webpack.Progress] 35% building 210/233 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-property-is-enumerable.js
+<s> [webpack.Progress] 35% building 210/234 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addons/dist/esm/types.js
+<s> [webpack.Progress] 35% building 210/235 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addons/dist/esm/make-decorator.js
+<s> [webpack.Progress] 35% building 211/235 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addons/dist/esm/make-decorator.js
+<s> [webpack.Progress] 35% building 211/236 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/shared-key.js
+<s> [webpack.Progress] 35% building 211/237 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/shared-store.js
+<s> [webpack.Progress] 35% building 211/238 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react/cjs/react-jsx-runtime.production.min.js
+<s> [webpack.Progress] 35% building 211/239 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/fix-regexp-well-known-symbol-logic.js
+<s> [webpack.Progress] 35% building 211/240 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/a-callable.js
+<s> [webpack.Progress] 35% building 211/241 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-slice-simple.js
+<s> [webpack.Progress] 35% building 211/242 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/species-constructor.js
+<s> [webpack.Progress] 35% building 212/242 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/species-constructor.js
+<s> [webpack.Progress] 35% building 213/242 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/species-constructor.js
+<s> [webpack.Progress] 35% building 213/243 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/blocks/types.js
+<s> [webpack.Progress] 35% building 214/243 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/blocks/types.js
+<s> [webpack.Progress] 35% building 214/244 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/models/ActionDisplay.js
+<s> [webpack.Progress] 35% building 215/244 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/models/ActionDisplay.js
+<s> [webpack.Progress] 35% building 215/245 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preview/action.js
+<s> [webpack.Progress] 35% building 215/246 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/target/es2015.js
+<s> [webpack.Progress] 35% building 215/247 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/constants.js
+<s> [webpack.Progress] 35% building 215/248 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/blocks/DocsContext.js
+<s> [webpack.Progress] 35% building 215/249 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-own-property-symbols.js
+<s> [webpack.Progress] 35% building 215/250 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-keys.js
+<s> [webpack.Progress] 35% building 216/250 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-keys.js
+<s> [webpack.Progress] 35% building 216/251 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.map.js
+<s> [webpack.Progress] 36% building 217/251 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.map.js
+<s> [webpack.Progress] 36% building 217/252 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/lib/captions.js
+<s> [webpack.Progress] 36% building 217/253 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/csf/dist/index.js
+<s> [webpack.Progress] 36% building 218/253 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/csf/dist/index.js
+<s> [webpack.Progress] 36% building 218/254 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/lib/componentTypes.js
+<s> [webpack.Progress] 36% building 219/254 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/lib/componentTypes.js
+<s> [webpack.Progress] 36% building 220/254 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/lib/componentTypes.js
+<s> [webpack.Progress] 36% building 220/255 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/lib/generateCode.js
+<s> [webpack.Progress] 36% building 221/255 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/lib/generateCode.js
+<s> [webpack.Progress] 36% building 221/256 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/lib/isHtmlTag.js
+<s> [webpack.Progress] 36% building 222/256 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/frameworks/react/lib/isHtmlTag.js
+<s> [webpack.Progress] 36% building 222/257 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/index.js
+<s> [webpack.Progress] 36% building 223/257 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/index.js
+<s> [webpack.Progress] 36% building 224/257 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/index.js
+<s> [webpack.Progress] 36% building 224/258 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preview/withActions.js
+<s> [webpack.Progress] 37% building 225/258 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preview/withActions.js
+<s> [webpack.Progress] 37% building 225/259 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/createPropDef.js
+<s> [webpack.Progress] 37% building 225/260 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-pure.js
+<s> [webpack.Progress] 37% building 226/260 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-pure.js
+<s> [webpack.Progress] 37% building 226/261 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-dom/cjs/react-dom.production.min.js
+<s> [webpack.Progress] 37% building 226/262 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/jsdocParser.js
+<s> [webpack.Progress] 37% building 226/263 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-includes.js
+<s> [webpack.Progress] 37% building 227/263 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-includes.js
+<s> [webpack.Progress] 37% building 228/263 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-includes.js
+<s> [webpack.Progress] 37% building 228/264 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/StoryStyles.css
+<s> [webpack.Progress] 37% building 229/264 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/StoryStyles.css
+<s> [webpack.Progress] 37% building 230/264 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/StoryStyles.css
+<s> [webpack.Progress] 37% building 230/265 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js
+<s> [webpack.Progress] 37% building 230/266 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/StoryStyles.css
+<s> [webpack.Progress] 37% building 230/267 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.tsx
+<s> [webpack.Progress] 37% building 231/267 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.tsx
+<s> [webpack.Progress] 37% building 232/267 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.tsx
+<s> [webpack.Progress] 37% building 233/267 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.tsx
+<s> [webpack.Progress] 38% building 234/267 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.tsx
+<s> [webpack.Progress] 38% building 235/267 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.tsx
+<s> [webpack.Progress] 38% building 236/267 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.tsx
+<s> [webpack.Progress] 38% building 237/267 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.tsx
+<s> [webpack.Progress] 38% building 237/268 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/StoryStore.js
+<s> [webpack.Progress] 38% building 237/269 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/rating-feedback/RatingFeedback.tsx
+<s> [webpack.Progress] 38% building 237/270 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-to-array.js
+<s> [webpack.Progress] 38% building 237/271 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/correct-prototype-getter.js
+<s> [webpack.Progress] 38% building 237/272 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/collection.js
+<s> [webpack.Progress] 38% building 238/272 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/collection.js
+<s> [webpack.Progress] 38% building 238/273 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/DownloadLoader.tsx
+<s> [webpack.Progress] 38% building 239/273 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/DownloadLoader.tsx
+<s> [webpack.Progress] 38% building 240/273 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/DownloadLoader.tsx
+<s> [webpack.Progress] 38% building 241/273 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/babel-loader/lib/index.js??ref--4-0!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/DownloadLoader.tsx
+<s> [webpack.Progress] 38% building 241/274 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.string.includes.js
+<s> [webpack.Progress] 38% building 241/275 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.includes.js
+<s> [webpack.Progress] 38% building 241/276 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.find.js
+<s> [webpack.Progress] 38% building 241/277 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.find-index.js
+<s> [webpack.Progress] 38% building 241/278 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.map.js
+<s> [webpack.Progress] 39% building 242/278 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.map.js
+<s> [webpack.Progress] 39% building 243/278 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.map.js
+<s> [webpack.Progress] 39% building 244/278 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.map.js
+<s> [webpack.Progress] 39% building 244/279 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/es5-shim/es5-sham.js
+<s> [webpack.Progress] 39% building 245/279 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/es5-shim/es5-sham.js
+<s> [webpack.Progress] 39% building 246/279 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/es5-shim/es5-sham.js
+<s> [webpack.Progress] 39% building 246/280 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/function-bind.js
+<s> [webpack.Progress] 39% building 246/281 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-prototype-of.js
+<s> [webpack.Progress] 39% building 247/281 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-prototype-of.js
+<s> [webpack.Progress] 39% building 248/281 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-prototype-of.js
+<s> [webpack.Progress] 39% building 249/281 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-prototype-of.js
+<s> [webpack.Progress] 40% building 250/281 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-prototype-of.js
+<s> [webpack.Progress] 40% building 251/281 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-prototype-of.js
+<s> [webpack.Progress] 40% building 252/281 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-prototype-of.js
+<s> [webpack.Progress] 40% building 253/281 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-prototype-of.js
+<s> [webpack.Progress] 40% building 254/281 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-get-prototype-of.js
+<s> [webpack.Progress] 40% building 254/282 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.number.constructor.js
+<s> [webpack.Progress] 40% building 254/283 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.date.to-primitive.js
+<s> [webpack.Progress] 40% building 254/284 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/collection-strong.js
+<s> [webpack.Progress] 40% building 254/285 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/sortStories.js
+<s> [webpack.Progress] 40% building 254/286 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/a-possible-prototype.js
+<s> [webpack.Progress] 40% building 254/287 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.symbol.to-primitive.js
+<s> [webpack.Progress] 40% building 255/287 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.symbol.to-primitive.js
+<s> [webpack.Progress] 40% building 255/288 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/a-constructor.js
+<s> [webpack.Progress] 40% building 256/288 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/a-constructor.js
+<s> [webpack.Progress] 40% building 256/289 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.weak-map.js
+<s> [webpack.Progress] 40% building 256/290 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/autoTitle.js
+<s> [webpack.Progress] 40% building 256/291 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/args.js
+<s> [webpack.Progress] 40% building 256/292 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/decorators.js
+<s> [webpack.Progress] 40% building 256/293 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/types.js
+<s> [webpack.Progress] 40% building 256/294 modules 38 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/hooks.js
+<s> [webpack.Progress] 40% building 257/294 modules 37 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/hooks.js
+<s> [webpack.Progress] 40% building 258/294 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/hooks.js
+<s> [webpack.Progress] 41% building 259/294 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/hooks.js
+<s> [webpack.Progress] 41% building 260/294 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/hooks.js
+<s> [webpack.Progress] 41% building 260/295 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/inferControls.js
+<s> [webpack.Progress] 41% building 260/296 modules 36 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/normalizeInputTypes.js
+<s> [webpack.Progress] 41% building 261/296 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/normalizeInputTypes.js
+<s> [webpack.Progress] 41% building 262/296 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/normalizeInputTypes.js
+<s> [webpack.Progress] 41% building 262/297 modules 35 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/filterArgTypes.js
+<s> [webpack.Progress] 41% building 263/297 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/filterArgTypes.js
+<s> [webpack.Progress] 41% building 264/297 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/filterArgTypes.js
+<s> [webpack.Progress] 41% building 264/298 modules 34 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/runtime/api.js
+<s> [webpack.Progress] 41% building 265/298 modules 33 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/runtime/api.js
+<s> [webpack.Progress] 41% building 266/298 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/runtime/api.js
+<s> [webpack.Progress] 42% building 267/298 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/runtime/api.js
+<s> [webpack.Progress] 42% building 268/298 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/runtime/api.js
+<s> [webpack.Progress] 42% building 269/298 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/runtime/api.js
+<s> [webpack.Progress] 42% building 269/299 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/parameters.js
+<s> [webpack.Progress] 42% building 270/299 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/parameters.js
+<s> [webpack.Progress] 42% building 271/299 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/parameters.js
+<s> [webpack.Progress] 42% building 272/299 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/parameters.js
+<s> [webpack.Progress] 42% building 273/299 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/parameters.js
+<s> [webpack.Progress] 42% building 274/299 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/parameters.js
+<s> [webpack.Progress] 43% building 275/299 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/parameters.js
+<s> [webpack.Progress] 43% building 276/299 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/parameters.js
+<s> [webpack.Progress] 43% building 276/300 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/ordinary-to-primitive.js
+<s> [webpack.Progress] 43% building 277/300 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/ordinary-to-primitive.js
+<s> [webpack.Progress] 43% building 278/300 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/ordinary-to-primitive.js
+<s> [webpack.Progress] 43% building 278/301 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/is-constructor.js
+<s> [webpack.Progress] 43% building 278/302 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/index.js
+<s> [webpack.Progress] 43% building 279/302 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/index.js
+<s> [webpack.Progress] 43% building 280/302 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/index.js
+<s> [webpack.Progress] 43% building 281/302 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/index.js
+<s> [webpack.Progress] 43% building 282/302 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/index.js
+<s> [webpack.Progress] 43% building 283/302 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/index.js
+<s> [webpack.Progress] 44% building 284/302 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/index.js
+<s> [webpack.Progress] 44% building 285/302 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/index.js
+<s> [webpack.Progress] 44% building 286/302 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/index.js
+<s> [webpack.Progress] 44% building 286/303 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/html.js
+<s> [webpack.Progress] 44% building 287/303 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/html.js
+<s> [webpack.Progress] 44% building 288/303 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/html.js
+<s> [webpack.Progress] 44% building 289/303 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/html.js
+<s> [webpack.Progress] 44% building 289/304 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/index.js
+<s> [webpack.Progress] 44% building 289/305 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.join.js
+<s> [webpack.Progress] 44% building 290/305 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.join.js
+<s> [webpack.Progress] 44% building 291/305 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.join.js
+<s> [webpack.Progress] 45% building 292/305 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.join.js
+<s> [webpack.Progress] 45% building 293/305 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.join.js
+<s> [webpack.Progress] 45% building 293/306 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/try-to-string.js
+<s> [webpack.Progress] 45% building 293/307 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-absolute-index.js
+<s> [webpack.Progress] 45% building 294/307 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/to-absolute-index.js
+<s> [webpack.Progress] 45% building 294/308 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/react/dist/esm/client/preview/globals.js
+<s> [webpack.Progress] 45% building 294/309 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-define-properties.js
+<s> [webpack.Progress] 45% building 294/310 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preview/decorateAction.js
+<s> [webpack.Progress] 45% building 294/311 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preview/configureActions.js
+<s> [webpack.Progress] 45% building 295/311 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preview/configureActions.js
+<s> [webpack.Progress] 45% building 295/312 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/target/es2016.js
+<s> [webpack.Progress] 45% building 295/313 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-iteration.js
+<s> [webpack.Progress] 45% building 296/313 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-iteration.js
+<s> [webpack.Progress] 45% building 296/314 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.string.starts-with.js
+<s> [webpack.Progress] 45% building 296/315 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/csf/dist/story.js
+<s> [webpack.Progress] 45% building 297/315 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/csf/dist/story.js
+<s> [webpack.Progress] 45% building 297/316 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/stringify.js
+<s> [webpack.Progress] 45% building 297/317 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/formats.js
+<s> [webpack.Progress] 45% building 298/317 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/formats.js
+<s> [webpack.Progress] 45% building 298/318 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.fill.js
+<s> [webpack.Progress] 45% building 299/318 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.array.fill.js
+<s> [webpack.Progress] 45% building 299/319 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preview/actions.js
+<s> [webpack.Progress] 46% building 300/319 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-actions/dist/esm/preview/actions.js
+<s> [webpack.Progress] 46% building 300/320 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/parse.js
+<s> [webpack.Progress] 46% building 301/320 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/parse.js
+<s> [webpack.Progress] 46% building 302/320 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/parse.js
+<s> [webpack.Progress] 46% building 303/320 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/parse.js
+<s> [webpack.Progress] 46% building 304/320 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/parse.js
+<s> [webpack.Progress] 46% building 305/320 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/parse.js
+<s> [webpack.Progress] 46% building 305/321 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/inferArgTypes.js
+<s> [webpack.Progress] 46% building 305/322 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/prepareStory.js
+<s> [webpack.Progress] 46% building 305/323 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/set-to-string-tag.js
+<s> [webpack.Progress] 46% building 306/323 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/set-to-string-tag.js
+<s> [webpack.Progress] 46% building 307/323 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/set-to-string-tag.js
+<s> [webpack.Progress] 46% building 307/324 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/actual/symbol/index.js
+<s> [webpack.Progress] 46% building 307/325 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/correct-is-regexp-logic.js
+<s> [webpack.Progress] 46% building 307/326 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/add-to-unscopables.js
+<s> [webpack.Progress] 46% building 308/326 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/add-to-unscopables.js
+<s> [webpack.Progress] 47% building 309/326 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/add-to-unscopables.js
+<s> [webpack.Progress] 47% building 310/326 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/add-to-unscopables.js
+<s> [webpack.Progress] 47% building 311/326 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/add-to-unscopables.js
+<s> [webpack.Progress] 47% building 311/327 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/not-a-regexp.js
+<s> [webpack.Progress] 47% building 311/328 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-slice.js
+<s> [webpack.Progress] 47% building 312/328 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-slice.js
+<s> [webpack.Progress] 47% building 312/329 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/check-correctness-of-iteration.js
+<s> [webpack.Progress] 47% building 312/330 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/an-instance.js
+<s> [webpack.Progress] 47% building 313/330 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/an-instance.js
+<s> [webpack.Progress] 47% building 314/330 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/an-instance.js
+<s> [webpack.Progress] 47% building 315/330 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/an-instance.js
+<s> [webpack.Progress] 47% building 315/331 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/string-trim.js
+<s> [webpack.Progress] 47% building 315/332 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/style-loader/dist/cjs.js!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/DownloadLoader.css
+<s> [webpack.Progress] 47% building 316/332 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/string-trim.js
+<s> [webpack.Progress] 47% building 316/333 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/download-loader/DownloadLoader.css
+<s> [webpack.Progress] 47% building 316/334 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/this-number-value.js
+<s> [webpack.Progress] 47% building 316/335 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/define-iterator.js
+<s> [webpack.Progress] 47% building 316/336 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/date-to-primitive.js
+<s> [webpack.Progress] 47% building 316/337 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/storySort.js
+<s> [webpack.Progress] 47% building 316/338 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/iterate.js
+<s> [webpack.Progress] 47% building 316/339 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/es5-shim/es5-shim.js
+<s> [webpack.Progress] 47% building 316/340 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/function.prototype.name/shim.js
+<s> [webpack.Progress] 47% building 316/341 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/uuid-browser/v4.js
+<s> [webpack.Progress] 48% building 317/341 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/uuid-browser/v4.js
+<s> [webpack.Progress] 48% building 317/342 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/startCase.js
+<s> [webpack.Progress] 48% building 317/343 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-is-extensible.js
+<s> [webpack.Progress] 48% building 318/343 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/object-is-extensible.js
+<s> [webpack.Progress] 48% building 318/344 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/isPlainObject.js
+<s> [webpack.Progress] 48% building 319/344 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/isPlainObject.js
+<s> [webpack.Progress] 48% building 320/344 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/isPlainObject.js
+<s> [webpack.Progress] 48% building 321/344 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/isPlainObject.js
+<s> [webpack.Progress] 48% building 321/345 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/collection-weak.js
+<s> [webpack.Progress] 48% building 321/346 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/redefine-all.js
+<s> [webpack.Progress] 48% building 321/347 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/mapValues.js
+<s> [webpack.Progress] 48% building 321/348 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/pickBy.js
+<s> [webpack.Progress] 48% building 321/349 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/function-bind-context.js
+<s> [webpack.Progress] 48% building 322/349 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/function-bind-context.js
+<s> [webpack.Progress] 48% building 322/350 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/helpers/index.js
+<s> [webpack.Progress] 48% building 323/350 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/helpers/index.js
+<s> [webpack.Progress] 48% building 324/350 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-backgrounds/dist/esm/helpers/index.js
+<s> [webpack.Progress] 48% building 324/351 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/processCSFFile.js
+<s> [webpack.Progress] 48% building 324/352 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/ArgsStore.js
+<s> [webpack.Progress] 48% building 324/353 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/GlobalsStore.js
+<s> [webpack.Progress] 48% building 324/354 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/store/dist/esm/StoryIndexStore.js
+<s> [webpack.Progress] 48% building 324/355 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/pick.js
+<s> [webpack.Progress] 49% building 325/355 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/pick.js
+<s> [webpack.Progress] 49% building 326/355 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/pick.js
+<s> [webpack.Progress] 49% building 327/355 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/lodash/pick.js
+<s> [webpack.Progress] 49% building 327/356 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/defaultValue.js
+<s> [webpack.Progress] 49% building 328/356 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/defaultValue.js
+<s> [webpack.Progress] 49% building 329/356 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/utils/defaultValue.js
+<s> [webpack.Progress] 49% building 329/357 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 49% building 330/357 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 49% building 331/357 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 49% building 332/357 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 49% building 333/357 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 50% building 334/357 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 50% building 335/357 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 50% building 336/357 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 50% building 337/357 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 50% building 338/357 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 50% building 339/357 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 50% building 340/357 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 50% building 341/357 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 51% building 342/357 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 51% building 343/357 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 51% building 344/357 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/utils.js
+<s> [webpack.Progress] 51% building 344/358 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-is/index.js
+<s> [webpack.Progress] 51% building 344/359 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/typeScript/createPropDef.js
+<s> [webpack.Progress] 51% building 344/360 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-method-is-strict.js
+<s> [webpack.Progress] 51% building 344/361 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/flow/createPropDef.js
+<s> [webpack.Progress] 51% building 345/361 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/flow/createPropDef.js
+<s> [webpack.Progress] 51% building 346/361 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/addon-docs/dist/esm/lib/docgen/flow/createPropDef.js
+<s> [webpack.Progress] 51% building 346/362 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/theming/dist/esm/index.js
+<s> [webpack.Progress] 51% building 347/362 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/theming/dist/esm/index.js
+<s> [webpack.Progress] 51% building 348/362 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/theming/dist/esm/index.js
+<s> [webpack.Progress] 51% building 349/362 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/theming/dist/esm/index.js
+<s> [webpack.Progress] 51% building 349/363 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/style-loader/dist/cjs.js!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.css
+<s> [webpack.Progress] 52% building 350/363 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/theming/dist/esm/index.js
+<s> [webpack.Progress] 52% building 350/364 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.css
+<s> [webpack.Progress] 52% building 351/364 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/css-loader/dist/cjs.js??ref--11-1!/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/builder-webpack4/node_modules/postcss-loader/dist/cjs.js??ref--11-2!/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/login-form/LoginFormComponent.css
+<s> [webpack.Progress] 52% building 351/365 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/target/es2017.js
+<s> [webpack.Progress] 52% building 352/365 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/target/es2017.js
+<s> [webpack.Progress] 52% building 353/365 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/target/es2017.js
+<s> [webpack.Progress] 52% building 354/365 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/target/es2017.js
+<s> [webpack.Progress] 52% building 355/365 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/target/es2017.js
+<s> [webpack.Progress] 52% building 356/365 modules 9 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/airbnb-js-shims/target/es2017.js
+<s> [webpack.Progress] 52% building 356/366 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/csf/dist/SBType.js
+<s> [webpack.Progress] 52% building 356/367 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/web.timers.js
+<s> [webpack.Progress] 52% building 357/367 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/web.timers.js
+<s> [webpack.Progress] 52% building 357/368 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.string.trim.js
+<s> [webpack.Progress] 52% building 358/368 modules 10 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/modules/es.string.trim.js
+<s> [webpack.Progress] 52% building 358/369 modules 11 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/Loader/Loader.js
+<s> [webpack.Progress] 52% building 358/370 modules 12 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/core/client.js
+<s> [webpack.Progress] 52% building 358/371 modules 13 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/synchronous-promise/index.js
+<s> [webpack.Progress] 52% building 358/372 modules 14 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/brand/StorybookIcon.js
+<s> [webpack.Progress] 52% building 358/373 modules 15 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/brand/StorybookLogo.js
+<s> [webpack.Progress] 52% building 358/374 modules 16 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/qs/lib/utils.js
+<s> [webpack.Progress] 52% building 358/375 modules 17 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/icon/icon.js
+<s> [webpack.Progress] 52% building 358/376 modules 18 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/addon-panel/addon-panel.js
+<s> [webpack.Progress] 52% building 358/377 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/bar/bar.js
+<s> [webpack.Progress] 52% building 358/378 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/bar/separator.js
+<s> [webpack.Progress] 52% building 358/379 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/bar/button.js
+<s> [webpack.Progress] 52% building 358/380 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/array-fill.js
+<s> [webpack.Progress] 52% building 358/381 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@base2/pretty-print-object/dist/index.js
+<s> [webpack.Progress] 53% building 359/381 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@base2/pretty-print-object/dist/index.js
+<s> [webpack.Progress] 53% building 360/381 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@base2/pretty-print-object/dist/index.js
+<s> [webpack.Progress] 53% building 361/381 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@base2/pretty-print-object/dist/index.js
+<s> [webpack.Progress] 53% building 362/381 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@base2/pretty-print-object/dist/index.js
+<s> [webpack.Progress] 53% building 362/382 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/tabs/tabs.js
+<s> [webpack.Progress] 53% building 363/382 modules 19 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/tabs/tabs.js
+<s> [webpack.Progress] 53% building 363/383 modules 20 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@babel/runtime/helpers/slicedToArray.js
+<s> [webpack.Progress] 53% building 363/384 modules 21 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/tooltip/TooltipLinkList.js
+<s> [webpack.Progress] 53% building 363/385 modules 22 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/tooltip/TooltipNote.js
+<s> [webpack.Progress] 53% building 363/386 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/tooltip/TooltipMessage.js
+<s> [webpack.Progress] 53% building 363/387 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/tooltip/lazy-WithTooltip.js
+<s> [webpack.Progress] 53% building 363/388 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-element-to-jsx-string/node_modules/is-plain-object/dist/is-plain-object.mjs
+<s> [webpack.Progress] 53% building 364/388 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-element-to-jsx-string/node_modules/is-plain-object/dist/is-plain-object.mjs
+<s> [webpack.Progress] 53% building 365/388 modules 23 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/react-element-to-jsx-string/node_modules/is-plain-object/dist/is-plain-object.mjs
+<s> [webpack.Progress] 53% building 365/389 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/form/index.js
+<s> [webpack.Progress] 53% building 365/390 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/Button/Button.js
+<s> [webpack.Progress] 53% building 366/390 modules 24 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/Button/Button.js
+<s> [webpack.Progress] 53% building 366/391 modules 25 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/Zoom/Zoom.js
+<s> [webpack.Progress] 53% building 366/392 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/whitespaces.js
+<s> [webpack.Progress] 53% building 366/393 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/iterators-core.js
+<s> [webpack.Progress] 54% building 367/393 modules 26 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/iterators-core.js
+<s> [webpack.Progress] 54% building 367/394 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/iterator-close.js
+<s> [webpack.Progress] 54% building 367/395 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/get-iterator-method.js
+<s> [webpack.Progress] 54% building 368/395 modules 27 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/get-iterator-method.js
+<s> [webpack.Progress] 54% building 368/396 modules 28 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/core-js/internals/get-iterator.js
+<s> [webpack.Progress] 54% building 368/397 modules 29 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/ScrollArea/ScrollArea.js
+<s> [webpack.Progress] 54% building 368/398 modules 30 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/array-includes/shim.js
+<s> [webpack.Progress] 54% building 368/399 modules 31 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/placeholder/placeholder.js
+<s> [webpack.Progress] 54% building 368/400 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/spaced/Spaced.js
+<s> [webpack.Progress] 70% building 368/400 modules 32 active /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/@storybook/components/dist/esm/spaced/Spaced.js
+ERR! => Failed to build the preview
+ERR! Module not found: Error: Can't resolve './LoginFormComponent.css' in '/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda'
+ERR! ModuleNotFoundError: Module not found: Error: Can't resolve './LoginFormComponent.css' in '/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda'
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/Compilation.js:925:10
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/NormalModuleFactory.js:401:22
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/NormalModuleFactory.js:130:21
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/NormalModuleFactory.js:224:22
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/neo-async/async.js:2830:7
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/neo-async/async.js:6877:13
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/NormalModuleFactory.js:214:25
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/Resolver.js:213:14
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/Resolver.js:285:5
+ERR!     at eval (eval at create (/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/UnsafeCachePlugin.js:44:7
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/Resolver.js:285:5
+ERR!     at eval (eval at create (/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/Resolver.js:285:5
+ERR!     at eval (eval at create (/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:27:1)
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:67:43
+ERR!  ModuleNotFoundError: Module not found: Error: Can't resolve './LoginFormComponent.css' in '/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda'
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/Compilation.js:925:10
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/NormalModuleFactory.js:401:22
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/NormalModuleFactory.js:130:21
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/NormalModuleFactory.js:224:22
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/neo-async/async.js:2830:7
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/neo-async/async.js:6877:13
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/webpack/lib/NormalModuleFactory.js:214:25
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/Resolver.js:213:14
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/Resolver.js:285:5
+ERR!     at eval (eval at create (/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/UnsafeCachePlugin.js:44:7
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/Resolver.js:285:5
+ERR!     at eval (eval at create (/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/Resolver.js:285:5
+ERR!     at eval (eval at create (/Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:27:1)
+ERR!     at /Users/stevenbaxter/Documents/GitHub/rive-testing/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:67:43
+ERR! resolve './LoginFormComponent.css' in '/Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda'
+ERR!   using description file: /Users/stevenbaxter/Documents/GitHub/rive-testing/package.json (relative path: ./lib/components/audio-panda)
+ERR!     Field 'browser' doesn't contain a valid alias configuration
+ERR!     using description file: /Users/stevenbaxter/Documents/GitHub/rive-testing/package.json (relative path: ./lib/components/audio-panda/LoginFormComponent.css)
+ERR!       no extension
+ERR!         Field 'browser' doesn't contain a valid alias configuration
+ERR!         /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/LoginFormComponent.css doesn't exist
+ERR!       .mjs
+ERR!         Field 'browser' doesn't contain a valid alias configuration
+ERR!         /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/LoginFormComponent.css.mjs doesn't exist
+ERR!       .js
+ERR!         Field 'browser' doesn't contain a valid alias configuration
+ERR!         /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/LoginFormComponent.css.js doesn't exist
+ERR!       .jsx
+ERR!         Field 'browser' doesn't contain a valid alias configuration
+ERR!         /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/LoginFormComponent.css.jsx doesn't exist
+ERR!       .ts
+ERR!         Field 'browser' doesn't contain a valid alias configuration
+ERR!         /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/LoginFormComponent.css.ts doesn't exist
+ERR!       .tsx
+ERR!         Field 'browser' doesn't contain a valid alias configuration
+ERR!         /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/LoginFormComponent.css.tsx doesn't exist
+ERR!       .json
+ERR!         Field 'browser' doesn't contain a valid alias configuration
+ERR!         /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/LoginFormComponent.css.json doesn't exist
+ERR!       .cjs
+ERR!         Field 'browser' doesn't contain a valid alias configuration
+ERR!         /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/LoginFormComponent.css.cjs doesn't exist
+ERR!       as directory
+ERR!         /Users/stevenbaxter/Documents/GitHub/rive-testing/lib/components/audio-panda/LoginFormComponent.css doesn't exist
+>>>>>>> Stashed changes

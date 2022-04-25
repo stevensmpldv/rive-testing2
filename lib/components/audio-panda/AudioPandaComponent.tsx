@@ -98,25 +98,25 @@ if(rive){
     <RiveComponent style={{ height: "1000px" }} />
  </div>
  <div>
-    <Button theme="red"  onClick={() => BLINKB.fire}>
+    <Button theme="red"  onClick={() => BLINKB.fire()}>
         Blink
     </Button>
  </div>
 
  <div>
-    <Button theme="red"  onClick={() => FOOTTAPB.fire}>
+    <Button theme="red"  onClick={() => FOOTTAPB.fire()}>
         Tap Foot
     </Button>
  </div>
 
  <div>
-    <Button theme="red"  onClick={() => SUCCESSB.fire}>
+    <Button theme="red"  onClick={() => SUCCESSB.fire()}>
         Nod Head
     </Button>
  </div>
 
  <div>
-    <Button theme="red"  onClick={() => FAILB.fire}>
+    <Button theme="red"  onClick={() => FAILB.fire()}>
         Shake Head
     </Button>
  </div>

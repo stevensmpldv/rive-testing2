@@ -54,7 +54,7 @@ export default function App() {
 //load panda frame image and auto play idle
     const { rive, RiveComponent } = useRive({
         src: "audio_panda_teddy_04.riv",
-        stateMachines: "Login Machine",
+        stateMachines: STATEMACHINE,
         autoplay: true,
         layout: new Layout({ fit: Fit.Contain }),
 
@@ -94,6 +94,9 @@ if(rive){
 
  return (
      <>
+ <div>
+    <RiveComponent style={{ height: "1000px" }} />
+ </div>
  <div>
     <Button theme="red"  onClick={() => BLINKB.fire}>
         Blink

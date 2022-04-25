@@ -1,16 +1,16 @@
 import React from "react";
 import { useRive, useStateMachineInput, Layout, Fit } from "rive-react";
-import styled from 'styled-components';
+import styled from "styled-components";
 //themes
 const theme = {
     blue: {
         default: '#3498DB',
         hover:  '#2874A6'
-    }
+    },
     red: {
         default: '#E74C3C',
         hover: '#B03A2E'
-    }
+    },
     green: {
         default: '#2ECC71',
         hover: '#239B56'
@@ -131,10 +131,6 @@ if(rive){
 </div>
 
     </>
-<<<<<<< Updated upstream
-  );
-=======
  );
 
->>>>>>> Stashed changes
 }

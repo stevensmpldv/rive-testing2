@@ -11,12 +11,16 @@ const theme = {
         default: '#E74C3C',
         hover: '#B03A2E'
     },
+    purple: {
+        default: '#982ec9',
+        hover:  '#661e87'
+    },
     green: {
         default: '#2ECC71',
         hover: '#239B56'
     }
 }
-//button styling 
+//button styling
 const Button = styled.button`
     background-color: ${props => theme[props.theme].default};
     color: white;
@@ -46,45 +50,72 @@ export default function App() {
     const BLINK = "trigBlink"
     const FOOTTAP = "trigFoottap"
     const SUCCESS = "trigSuccess"
-    const FAIL = "trigFail";
-    
+    const FAIL = "trigFail"
+    const NORMAL = "trigDefault"
+    const COHLEY = "trigCohley"
+    const FOQAL = "trigFoqal"
+    const BEEKEEPER = "trigBeekeeper"
+
+
+    ;
+
 
 
 
 //load panda frame image and auto play idle
     const { rive, RiveComponent } = useRive({
-        src: "audio_panda_teddy_08.riv",
+        src: "audio_panda_teddy_10.riv",
         stateMachines: STATEMACHINE,
         autoplay: true,
         layout: new Layout({ fit: Fit.Contain }),
 
     });
 // state machine constants
-    const BLINKB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
-        BLINK 
+    const BLINKB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        BLINK
         );
-    const FOOTTAPB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
-        FOOTTAP 
+    const FOOTTAPB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        FOOTTAP
             );
-    const SUCCESSB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
-        SUCCESS 
+    const SUCCESSB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        SUCCESS
                 );
-    const FAILB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
-        FAIL 
+    const FAILB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        FAIL
         );
-    const LISTENINGB = useStateMachineInput( 
-        rive, 
-        STATEMACHINE, 
+    const LISTENINGB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
         LISTENING
             );
+    const NORMALB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        NORMAL
+        );
+    const COHLEYB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        COHLEY
+        );
+    const FOQALB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        FOQAL 
+        );
+    const BEEKEEPERB = useStateMachineInput(
+        rive,
+        STATEMACHINE,
+        BEEKEEPER
+        );
 
 
 //logger
@@ -133,6 +164,29 @@ if(rive){
  </Button>
 </div>
 
+<div>
+   <Button theme="purple"  onClick={() => NORMALB.fire()}>
+       Default Shirt
+   </Button>
+</div>
+
+<div>
+   <Button theme="purple"  onClick={() => COHLEYB.fire()}>
+      Cohley Shirt
+   </Button>
+</div>
+
+<div>
+   <Button theme="purple"  onClick={() => FOQALB.fire()}>
+      Foqal Shirt
+   </Button>
+</div>
+
+<div>
+   <Button theme="purple"  onClick={() => BEEKEEPERB.fire()}>
+       Beekeeper Shirt
+   </Button>
+</div>
     </>
  );
 

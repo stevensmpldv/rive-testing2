@@ -53,7 +53,7 @@ export default function App() {
 
 //load panda frame image and auto play idle
     const { rive, RiveComponent } = useRive({
-        src: "audio_panda_teddy_07.riv",
+        src: "audio_panda_teddy_08.riv",
         stateMachines: STATEMACHINE,
         autoplay: true,
         layout: new Layout({ fit: Fit.Contain }),

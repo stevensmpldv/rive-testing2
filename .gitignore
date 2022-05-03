@@ -26,3 +26,8 @@ yarn-error.log*
 storybook-static/
 dist/
 build-storybook.log
+docs/main.29c0b257.iframe.bundle.js
+docs/main.c688c47c.iframe.bundle.js
+build-storybook.log
+*.log
+build-storybook.log

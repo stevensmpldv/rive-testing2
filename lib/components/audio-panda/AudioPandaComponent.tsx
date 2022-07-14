@@ -45,7 +45,7 @@ Button.defaultProps = {
 
 // animation constants
 export default function App() {
-    const STATEMACHINE = "Login Machine"
+    const STATEMACHINE = "DefaultState"
     const LISTENING = "isListening"
     const BLINK = "trigBlink"
     const FOOTTAP = "trigFoottap"
@@ -55,6 +55,7 @@ export default function App() {
     const COHLEY = "trigCohley"
     const FOQAL = "trigFoqal"
     const BEEKEEPER = "trigBeekeeper"
+    const SWIPE = "trigSwipe"
 
 
     ;
@@ -64,7 +65,7 @@ export default function App() {
 
 //load panda frame image and auto play idle
     const { rive, RiveComponent } = useRive({
-        src: "audio_panda_teddy_11.riv",
+        src: "swipepandav3.riv",
         stateMachines: STATEMACHINE,
         autoplay: true,
         layout: new Layout({ fit: Fit.Contain }),
@@ -109,13 +110,18 @@ export default function App() {
     const FOQALB = useStateMachineInput(
         rive,
         STATEMACHINE,
-        FOQAL 
+        FOQAL
         );
     const BEEKEEPERB = useStateMachineInput(
         rive,
         STATEMACHINE,
         BEEKEEPER
         );
+        const SWIPEB = useStateMachineInput(
+            rive,
+            STATEMACHINE,
+            SWIPE
+            );
 
 
 //logger
@@ -185,6 +191,12 @@ if(rive){
 <div>
    <Button theme="purple"  onClick={() => BEEKEEPERB.fire()}>
        Beekeeper Shirt
+   </Button>
+</div>
+
+<div>
+   <Button theme="red"  onClick={() => SWIPEB.fire()}>
+      Swipe Animation
    </Button>
 </div>
     </>

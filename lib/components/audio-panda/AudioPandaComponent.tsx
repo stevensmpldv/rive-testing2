@@ -65,7 +65,7 @@ export default function App() {
 
 //load panda frame image and auto play idle
     const { rive, RiveComponent } = useRive({
-        src: "swipepandav6.riv",
+        src: "swipepandav3.riv",
         stateMachines: STATEMACHINE,
         autoplay: true,
         layout: new Layout({ fit: Fit.Contain }),
